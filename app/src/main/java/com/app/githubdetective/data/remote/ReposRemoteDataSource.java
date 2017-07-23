@@ -1,5 +1,8 @@
 package com.app.githubdetective.data.remote;
 
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
+
 import com.app.githubdetective.data.local.models.Repo;
 import com.app.githubdetective.data.local.models.RepoStargazersComparator;
 import com.app.githubdetective.data.remote.api.SearchReposService;
@@ -25,12 +28,14 @@ public class ReposRemoteDataSource {
 
     private final String mClientId;
     private final String mClientSecret;
+    private ConnectivityManager mConnectivityMgr;
     private SearchReposService mReposService;
 
-    public ReposRemoteDataSource(SearchReposService searchReposService, final String clientId, final String clientSecret) {
+    public ReposRemoteDataSource(SearchReposService searchReposService, ConnectivityManager connectivityManager, final String clientId, final String clientSecret) {
         mReposService = searchReposService;
         mClientId = clientId;
         mClientSecret = clientSecret;
+        mConnectivityMgr = connectivityManager;
     }
 
     /**
@@ -51,6 +56,11 @@ public class ReposRemoteDataSource {
      * @return single observable with sorted repo instances inside.
      */
     public Single<List<Repo>> loadSortedReposFromNetwork(final String queryKeyword) {
+        // Returns empty repos list in case when there's no connection available
+        if (!isConnected()) {
+            return Single.fromCallable(ArrayList::new);
+        }
+
         final Single<ReposGithubResponse> firstPageResponse = loadReposFromNetwork(queryKeyword, INDEX_FIRST_PAGE);
         final Single<ReposGithubResponse> secondPageResponse = loadReposFromNetwork(queryKeyword, INDEX_SECOND_PAGE);
 
@@ -70,5 +80,8 @@ public class ReposRemoteDataSource {
         });
     }
 
-
+    private boolean isConnected() {
+        final NetworkInfo networkInfo = mConnectivityMgr.getActiveNetworkInfo();
+        return networkInfo != null && networkInfo.isConnected();
+    }
 }

@@ -3,6 +3,7 @@ package com.app.githubdetective.injection;
 import android.arch.persistence.room.Room;
 import android.content.Context;
 import android.content.res.Resources;
+import android.net.ConnectivityManager;
 
 import com.app.githubdetective.RepoDetectiveApp;
 import com.app.githubdetective.R;
@@ -54,6 +55,12 @@ public class AppModule {
     @Singleton
     Resources provideResources() {
         return mApplication.getResources();
+    }
+
+    @Provides
+    @Singleton
+    ConnectivityManager provideConnectivityManager(Context appContext) {
+        return (ConnectivityManager) appContext.getSystemService(Context.CONNECTIVITY_SERVICE);
     }
 
     @Provides
@@ -116,10 +123,10 @@ public class AppModule {
 
     @Provides
     @Singleton
-    ReposRemoteDataSource provideReposRemoteDataSource(SearchReposService reposService, Resources resources) {
+    ReposRemoteDataSource provideReposRemoteDataSource(SearchReposService reposService, Resources resources, ConnectivityManager connectivityManager) {
         final String clientId = resources.getString(R.string.github_client_id);
         final String clientSecret = resources.getString(R.string.github_client_secret);
-        return new ReposRemoteDataSource(reposService, clientId, clientSecret);
+        return new ReposRemoteDataSource(reposService, connectivityManager, clientId, clientSecret);
     }
 
     @Provides
