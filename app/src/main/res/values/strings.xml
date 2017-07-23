@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RepoDetective</string>
+
+    <string name="search_query_hint">Type the keyword…</string>
+    <string name="search_no_results">No repos found</string>
+    <string name="search_error">Could not fetch Github repos data: %s</string>
+    <string name="search_error_no_connection">Not connected to the Internet</string>
+
+    <string name="action_stop_search">Stop Search</string>
+
+    <string name="details_dialog_close">Close</string>
+
+    <string name="github_client_id">aee4f8a3567737aa640a</string>
+    <string name="github_client_secret">3bf4f72251eeb3cd39e9b8f7fe43cc8e4cba4b04</string>
+</resources>

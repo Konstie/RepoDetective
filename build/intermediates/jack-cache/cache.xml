@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/konstie/.android/build-cache/096e3abbc5ad89a7d6ff9967c5d47995fb4e7948/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-70de3ab9a4a410ac8e9e2bf9342c7512a1db9be3.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/ea7ebfd71418b78fab3e55ad55ea93a11e7e46ce/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-07bab907fe60d7f19b2d1f9d6f0d60cecc13fa74.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.1/99895d4dc6d79efbb74360f13c556d95533ad8f8/rxjava-2.1.1.jar"
+        revision="25.0.3"
+        sha1="99895d4dc6d79efbb74360f13c556d95533ad8f8">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-2.1.1-3fb48f7a304b1664066e3e3ef252091997a4b427.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/82e153f5451ad68a848bd16410a48775aeec4a09/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3324e81ed52f42f3f317112b91a9b8285773da2d.jar" />
+    </item>
+    <item
+        jar="/media/konstie/01CEC817A0C7BA50/AndroidDev/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-c55aef854f74333eb8f75b281296720ba37c52dc.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/2fe05c0057efb09acb42a52ebff4de77d28c52f6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="3215f1d53d27566ea79009fb3abea964cb4e4d3f">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-561384793c6938faae880263a87f9174fc95b5ab.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        revision="25.0.3"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/adapter-rxjava2-2.3.0-80e6ea47df7f3feaf57c9b55eca824f8eaa9fb39.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.3.0/6ad87c2038269d2574fcd90765ce15c74d6bb993/converter-moshi-2.3.0.jar"
+        revision="25.0.3"
+        sha1="6ad87c2038269d2574fcd90765ce15c74d6bb993">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-moshi-2.3.0-49ef37f1894abc95389ef69a88c72f130a3f9450.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/2ebe9889828183495450bed648bf86cd79f90d5c/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-688950be929a86957000d9b269d54a0e2c28331d.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/e0f66a9b26a322e175b1ed56f2492616bb54c1b8/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-64cafbc196c78945df31b5445bbb5c585b9ee1cf.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/javax.inject-1-7edce4e9a742d664ffbe84349f7f2b7227275666.jar" />
+    </item>
+    <item
+        jar="/media/konstie/01CEC817A0C7BA50/AndroidDev/android-sdk/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-d8ce1c78889e125f8f96ef2321d42a2c093708ad.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.11/95037eaee68aa48021511972e9db9ba29916e1c9/dagger-2.11.jar"
+        revision="25.0.3"
+        sha1="95037eaee68aa48021511972e9db9ba29916e1c9">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/dagger-2.11-bbc9b03361e83447432568158eab518359f8d27e.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0-alpha5/ef1ec521c95486fb256b3677a95c340ce9c49407/common-1.0.0-alpha5.jar"
+        revision="25.0.3"
+        sha1="ef1ec521c95486fb256b3677a95c340ce9c49407">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/common-1.0.0-alpha5-348820a7a7dd1a143861a604758469b50af68b32.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/f0e0168775e2ce786010d7d0d9d565bd66b5aefc/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="2f6369061e3e8cde1528618dfdff8105e1742bf5">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ea466924da194315b8842d6ac6b3639e32069d75.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/c703f65fac2da2b0fa25b700ddf8e5475ccc4635/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-bd994b50689a96be95feade87afe3e7c2ab7d56f.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/8e60444634cd3ec8e57c0bb30ea6a98455f01b14/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="af7033d1889f6d98ba978a9e26d9ae8d3333c4da">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-35ffe4c28241befdc3209ea7978fa22c1f8b389a.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.3.0-0a4bba7ff98f1e71fce8ed711f905abc0f202486.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/cc5ef0771a737c67f086ba17984461bda7237475/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4aae73b161431e97c3436034d437939e6563a777.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/9f631daac4f7ab16b9febff7aa0221e83e22ba5e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e1f3b4d4ab6bf603ae42794bd1ddb74a8adbe218.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/9b34af12da3766433b3e2880dc788bd1bcb618ac/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-848da2209ba5e36e778598e3f07f4f1216998f30.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/b9e0d6b229f421d4574e290bf8198151db94f9d3/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6f6a3aca5887e35a47176729747027a0688799d3">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c652b89fef336c5034e78ab4eec69749c8b239e0.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        revision="25.0.3"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/butterknife-annotations-8.7.0-dd9cd56cbe511395470781c7474d135abbb7cc43.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.13.0-0a48c7ede70d619ab856027a35e168c8c2159b1d.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/e252406ebd074b3d86ab59477753844e455351d1/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="73b599658b6d04643cc81d810fe7a6a96e4b2b5b">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4950a5db892790f4c420faee5a672c154b4d9de7.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/5307b41f39950533909137db699fcf84000b9445/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-869e326e878071948f361eb7222533ed58f778ab.jar" />
+    </item>
+    <item
+        jar="/media/konstie/01CEC817A0C7BA50/AndroidDev/android-sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-f091643824944a56c8b097513d42961c96d7cc2d.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/4a1ad71a706b4c684c696a9fef63480693f2231c/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-45f41641bee7cd5a7c0e6387b635f5032f86f33f.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/8cbeef1d34262002acbe5c98c2dd295866025622/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="ff17ada3d0026db66612d5eba16ca4abe1545c85">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f172d04dd4539cc422932b090571f0a4061e50ad.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/980b05159f08e05c37f0b218625fcb1997d95e8c/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3c92b784b796ddce68e2475a2e62e17f8994ec70.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/common/1.0.0-alpha5/da7c4f373e9a9e114fc3a12edcbb7bd7f8822b4b/common-1.0.0-alpha5.jar"
+        revision="25.0.3"
+        sha1="da7c4f373e9a9e114fc3a12edcbb7bd7f8822b4b">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/common-1.0.0-alpha5-daa5b3097a2ee406cbf9072e2c0d0306bc668fae.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/ad67919526b5c8f79e2dc4c61eb51ff6d26f1a75/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="35f961fae9306ee1f783eaf052f25c37dfc48a8a">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4b1db117f478fe7f325156fadd3a7c8007f6c65a.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.8.0-9546bdf5abd491026f971d8d16438fd92818fc8e.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby3/mvp-common/3.0.4/d1453001eb316595a11ed72673f189c05d27914d/mvp-common-3.0.4.jar"
+        revision="25.0.3"
+        sha1="d1453001eb316595a11ed72673f189c05d27914d">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/mvp-common-3.0.4-678325ffc94b28723093bc021baf4600b7ca7844.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/20881aa73e8ea66cae8ff08a726238fb170b3703/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8e4510bd4b7880071fcbb6c1ee1bdd9796904aeb.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/c7bde7b96d2bc91a0a57af88519ba415a60a6c59/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="bf73da3319a0adaf79a0ef925632dc3850d2dff0">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f6e823258481cbd6b399c031e98f51f33ba3a338.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/reactive-streams-1.0.0-b297758901e63c26e92632fa78c7c20e501793b5.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.android/build-cache/d722c38d66b0498bedb48fde1e9ed92b8336f4d2/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ab6959a8ce81f89f54d8df0830d207dccef0a1e0.jar" />
+    </item>
+    <item
+        jar="/home/konstie/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.4.0/d67ad038adfd55dc276488a54f4944dfae5ff8ec/moshi-1.4.0.jar"
+        revision="25.0.3"
+        sha1="d67ad038adfd55dc276488a54f4944dfae5ff8ec">
+        <dex dex="/media/konstie/01CEC817A0C7BA50/AndroidDev/samples/RepoDetective/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/moshi-1.4.0-21ba7e8dcdadfd8a9160bc2637ced79d263716b5.jar" />
+    </item>
+
+</items>

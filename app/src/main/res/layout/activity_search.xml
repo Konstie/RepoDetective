@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.app.githubdetective.sections.search.SearchActivity">
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:id="@+id/progress_bar"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_gravity="end"
+        android:visibility="invisible"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/search_edit_text"
+        android:hint="@string/search_query_hint"
+        android:lines="1"
+        android:maxLines="1"
+        android:layout_margin="8dp"
+        android:textColorHint="@color/secondary_text"
+        android:textColor="@color/primary_text"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:layout_below="@id/search_edit_text"
+        android:id="@+id/repos_recycler_view">
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/error_placeholder_text_view"
+        android:layout_below="@id/search_edit_text"
+        android:visibility="gone"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:text="@string/search_no_results"/>
+
+</RelativeLayout>
