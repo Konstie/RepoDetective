@@ -14,6 +14,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.app.githubdetective.R;
 import com.app.githubdetective.data.local.models.Repo;
@@ -67,12 +68,17 @@ public class SearchActivity extends MvpActivity<SearchView, SearchPresenter> imp
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.action_stop_search:
-                getPresenter().stopSearch();
-                mProgressBar.setVisibility(View.GONE);
+                onStopSearchPressed();
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
+    }
+
+    private void onStopSearchPressed() {
+        getPresenter().stopSearch();
+        mProgressBar.setVisibility(View.GONE);
+        Toast.makeText(this, R.string.action_stopped_repos_search, Toast.LENGTH_SHORT).show();
     }
 
     private void setupReposListView() {
