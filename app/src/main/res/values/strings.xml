@@ -7,6 +7,7 @@
     <string name="search_error_no_connection">Not connected to the Internet</string>
 
     <string name="action_stop_search">Stop Search</string>
+    <string name="action_stopped_repos_search">Stopped repositories search!</string>
 
     <string name="details_dialog_close">Close</string>
 
